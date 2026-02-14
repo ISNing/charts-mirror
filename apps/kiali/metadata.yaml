@@ -1,0 +1,5 @@
+---
+chartRegistry: https://kiali.org/helm-charts
+chartName: kiali-operator
+chartVersion: 2.21.0
+artifactName: kiali-operator
